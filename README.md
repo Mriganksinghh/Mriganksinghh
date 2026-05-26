@@ -1,4 +1,7 @@
 <div align="center">
+<img src="https://github.com/Mriganksinghh/Mriganksinghh/blob/main/ChatGPT%20Image%20May%2026,%202026,%2003_39_59%20PM.png?raw=true" />
+</div>
+<div align="center">
 
 # Hi 👋, I'm Mrigank Singh
 
